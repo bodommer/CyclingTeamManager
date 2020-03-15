@@ -19,11 +19,53 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="Create Table1.sql">
+        <FileNode Name="CreateSchema.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDb)\LocalDB:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(LocalDb)\LocalDB</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>Create Table1.sql</FullPath>
+          <FullPath>CreateSchema.sql</FullPath>
+        </FileNode>
+        <FileNode Name="delete_stats.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDb)\LocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDb)\LocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>delete_stats.sql</FullPath>
+        </FileNode>
+        <FileNode Name="drop.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDb)\LocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDb)\LocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>drop.sql</FullPath>
+        </FileNode>
+        <FileNode Name="generate_stats.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDb)\LocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDb)\LocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>generate_stats.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Procedures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDb)\LocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDb)\LocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="test_script.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDb)\LocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDb)\LocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>test_script.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TestData.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDb)\LocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDb)\LocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TestData.sql</FullPath>
+        </FileNode>
+        <FileNode Name="views.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(LocalDb)\LocalDB:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(LocalDb)\LocalDB</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>views.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
